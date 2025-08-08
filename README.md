@@ -8,7 +8,7 @@ This project was created as a submission for an internship task, demonstrating c
 
 ## 🎥 Demo Video
 
-*<[-- PASTE YOUR 5-MINUTE DEMO VIDEO LINK HERE (YouTube or Loom) --]>*
+https://youtu.be/5eBDfwKHnng
 
 ---
 
@@ -142,7 +142,3 @@ Generates an AI-powered summary of a specific file or all supported files within
 * **Example (Folder):** `SUMMARY /Meeting Notes`
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
